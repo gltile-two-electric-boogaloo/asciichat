@@ -1,4 +1,4 @@
-module api
+module asciichat
 
 go 1.18
 
